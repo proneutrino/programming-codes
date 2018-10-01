@@ -1,0 +1,23 @@
+m,n = map(int,raw_input().split())
+l = []
+for i in range (m) :
+	l.append(raw_input())
+for i in range (m) :
+	x = l[i]
+	x = x.strip()
+	if 'R' in x and x.count('R') == n:
+		j = i+1
+		while j < m :
+			y = l[j]
+			y = y.strip()
+			if x == y :
+				c += 1
+	else :
+		f = 1
+	if ''
+			
+		
+		
+
+	
+
