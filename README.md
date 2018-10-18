@@ -1,2 +1,2 @@
 # programming-codes
-all codes of hackerrank, hackerearth, codechef, codeforces
+All Codes oF Hackerrank, hackerearth, codechef, codeforces
